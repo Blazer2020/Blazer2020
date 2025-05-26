@@ -3,6 +3,7 @@
 I’m a third-year Biomedical Engineering undergraduate at the University of Moratuwa, driven by curiosity and a passion for solving real-world healthcare challenges. My interests span across medical instrumentation, robotics, physiological modeling, medical CAD, machine learning, and prosthetic technologies. I enjoy tackling technical challenges head-on and pride myself on being highly adaptable in dynamic, fast-paced environments.
 
 Beyond academics, I actively participate in a wide range of extracurricular activities while maintaining a strong academic balance. I also pursue freelance design work, combining creativity with engineering insight. Whether it’s collaborating on research, building devices, or leading initiatives, I strive to bring innovation, precision, and purpose to every project I take on.
+
 ---
 
 ## Tech Stack & Tools
