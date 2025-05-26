@@ -37,12 +37,17 @@ Beyond academics, I actively participate in a wide range of extracurricular acti
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=benulchenuka1@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@benulchenuka1" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" alt="Medium"/>
+  </a>
 </p>
 
 <p align="center">
   <b>LinkedIn:</b> benul-wijayarathna <br>
   <b>Instagram:</b> @benulchan <br>
-  <b>Email:</b> benulchenuka1@gmail.com
+  <b>Email:</b> benulchenuka1@gmail.com <br>
+  <b>Medium:</b> @benulchenuka1
 </p>
 
 
