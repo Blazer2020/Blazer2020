@@ -9,10 +9,42 @@ Beyond academics, I actively participate in a wide range of extracurricular acti
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,nodejs,latex,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,latex,vscode,html,css,js,java" alt="Tech Stack" />
+  <img src="https://drive.google.com/uc?export=view&id=1h2f5l6dy2Afy4Ss6IyGLMbM1FGF7OXP-" width="1" alt="spacer" />
+ <img src="https://drive.google.com/uc?export=view&id=1IHV-03e9Kpcxy7mrv1J9KlzkX9gCxzFD"
+     height="48"
+     alt="SolidWorks" />
+  <img src="https://drive.google.com/uc?export=view&id=1h2f5l6dy2Afy4Ss6IyGLMbM1FGF7OXP-" width="1" alt="spacer" />
+  <img src="https://drive.google.com/uc?export=view&id=19GvI3RjVH8Na2DmMGR0rlvK4LLp_JRv1" 
+     width="48" 
+     style="margin: 4px; border-radius: 12px; background-color: #1e1e2f; padding: 6px;" 
+     alt="Altium" />
+
 </p>
 
----
+
+## Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/benul-wijayarathna-186374280" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/benulchan/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=benulchenuka1@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>LinkedIn:</b> benul-wijayarathna <br>
+  <b>Instagram:</b> @benulchan <br>
+  <b>Email:</b> benulchenuka1@gmail.com
+</p>
+
 
 ## GitHub Analytics
 
@@ -24,7 +56,3 @@ Beyond academics, I actively participate in a wide range of extracurricular acti
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Blazer2020&theme=radical&hide_border=false" height="180" />
 </p>
-
----
-
-Let me know if you'd also like a profile-level badge section (e.g. "Visitors Count", "Currently Learning", "Contact Me", etc.).
