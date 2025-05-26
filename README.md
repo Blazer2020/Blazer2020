@@ -1,4 +1,4 @@
-## Benul Chenuka Wijayarathna
+## Benul Chenuka Wijayarathna  
 
 I’m a third-year Biomedical Engineering undergraduate at the University of Moratuwa, driven by curiosity and a passion for solving real-world healthcare challenges. My interests span across medical instrumentation, robotics, physiological modeling, medical CAD, machine learning, and prosthetic technologies. I enjoy tackling technical challenges head-on and pride myself on being highly adaptable in dynamic, fast-paced environments.
 
