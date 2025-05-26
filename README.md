@@ -39,7 +39,10 @@ Beyond academics, I actively participate in a wide range of extracurricular acti
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@benulchenuka1" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" width="40" alt="Medium"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg"
+         width="40"
+         style="background-color: white; padding: 6px; border-radius: 12px;"
+         alt="Medium"/>
   </a>
 </p>
 
