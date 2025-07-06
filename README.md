@@ -12,7 +12,7 @@ Beyond academics, I actively participate in a wide range of extracurricular acti
   <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,latex,vscode,html,css,js,java" alt="Tech Stack" />
   <img src="https://drive.google.com/uc?export=view&id=1h2f5l6dy2Afy4Ss6IyGLMbM1FGF7OXP-" width="1" alt="spacer" /> 
  <img src="https://drive.google.com/uc?export=view&id=1IHV-03e9Kpcxy7mrv1J9KlzkX9gCxzFD"
-     height="48"
+     height="1"
      alt="SolidWorks" />
   <img src="https://drive.google.com/uc?export=view&id=1h2f5l6dy2Afy4Ss6IyGLMbM1FGF7OXP-" width="1" alt="spacer" />
   <img src="https://drive.google.com/uc?export=view&id=19GvI3RjVH8Na2DmMGR0rlvK4LLp_JRv1" 
