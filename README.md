@@ -8,25 +8,21 @@ Beyond academics, I actively participate in a wide range of extracurricular acti
 
 ## Tech Stack & Tools
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,latex,vscode,html,css,js,java" alt="Tech Stack" />
-  <img src="https://drive.google.com/uc?export=view&id=1h2f5l6dy2Afy4Ss6IyGLMbM1FGF7OXP-" width="1" alt="spacer" /> 
- 
-  <div style="display: inline-block; text-align: center; margin: 8px;">
-  <img src="https://github.com/Blazer2020/Blazer2020/blob/main/altiumlogo.png?raw=true"
-       alt="SolidWorks"
-       style="height: 48px; border-radius: 8px;" />
-  </div>
-  <img src="https://drive.google.com/uc?export=view&id=1h2f5l6dy2Afy4Ss6IyGLMbM1FGF7OXP-" width="1" alt="spacer" />
   
-  <div style="display: inline-block; text-align: center; margin: 8px;">
-  <img src="https://github.com/Blazer2020/Blazer2020/blob/main/solidworksreal.png?raw=true"
-       alt="SolidWorks"
-       style="height: 48px; border-radius: 8px;" />
-  </div>
+  <span style="display: inline-block; text-align: center; margin: 8px;">
+    <img src="https://github.com/Blazer2020/Blazer2020/blob/main/altiumlogo.png?raw=true"
+         alt="Altium"
+         style="height: 48px; border-radius: 8px;" />
+  </span>
 
-
-</p>
+  <span style="display: inline-block; text-align: center; margin: 8px;">
+    <img src="https://github.com/Blazer2020/Blazer2020/blob/main/solidworksreal.png?raw=true"
+         alt="SolidWorks"
+         style="height: 48px; border-radius: 8px;" />
+  </span>
+</div>
 
 
 ## Connect with me
